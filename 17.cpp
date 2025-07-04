@@ -1,11 +1,12 @@
 #include <iostream>
+
 using namespace std ;
 
 class employe {
 public :
 string name ;
 int salary ;
-//00
+
 };
 
 int main (){
