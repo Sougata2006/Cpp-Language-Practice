@@ -13,5 +13,6 @@ int main()
     {
         cout<<"the number of "<<i<<"th sub is "<<marks[i]<<"\n";
     }
+    //default value
     return 0;
 }
